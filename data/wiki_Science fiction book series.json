@@ -1,0 +1,806 @@
+{
+  "title": "Science fiction book series",
+  "url": "https://en.wikipedia.org/wiki/Category:Science_fiction_book_series",
+  "examples": [
+    {
+      "title": "Ace Science Fiction Specials",
+      "url": "http://en.wikipedia.org/wiki/Ace_Science_Fiction_Specials"
+    },
+    {
+      "title": "List of Ace SF double titles",
+      "url": "http://en.wikipedia.org/wiki/List_of_Ace_SF_double_titles"
+    },
+    {
+      "title": "List of Ace SF letter-series single titles",
+      "url": "http://en.wikipedia.org/wiki/List_of_Ace_SF_letter-series_single_titles"
+    },
+    {
+      "title": "List of Ace SF numeric-series single titles",
+      "url": "http://en.wikipedia.org/wiki/List_of_Ace_SF_numeric-series_single_titles"
+    },
+    {
+      "title": "Acorna",
+      "url": "http://en.wikipedia.org/wiki/Acorna"
+    },
+    {
+      "title": "Alastor trilogy",
+      "url": "http://en.wikipedia.org/wiki/Alastor_trilogy"
+    },
+    {
+      "title": "Altri Mondi",
+      "url": "http://en.wikipedia.org/wiki/Altri_Mondi"
+    },
+    {
+      "title": "Angel's Luck",
+      "url": "http://en.wikipedia.org/wiki/Angel%27s_Luck"
+    },
+    {
+      "title": "Apprentice Adept",
+      "url": "http://en.wikipedia.org/wiki/Apprentice_Adept"
+    },
+    {
+      "title": "Axis of Time",
+      "url": "http://en.wikipedia.org/wiki/Axis_of_Time"
+    },
+    {
+      "title": "Battle Circle",
+      "url": "http://en.wikipedia.org/wiki/Battle_Circle"
+    },
+    {
+      "title": "Be an Interplanetary Spy",
+      "url": "http://en.wikipedia.org/wiki/Be_an_Interplanetary_Spy"
+    },
+    {
+      "title": "The Beast Master",
+      "url": "http://en.wikipedia.org/wiki/The_Beast_Master"
+    },
+    {
+      "title": "Belisarius series",
+      "url": "http://en.wikipedia.org/wiki/Belisarius_series"
+    },
+    {
+      "title": "Bill, the Galactic Hero",
+      "url": "http://en.wikipedia.org/wiki/Bill,_the_Galactic_Hero"
+    },
+    {
+      "title": "Bio of a Space Tyrant",
+      "url": "http://en.wikipedia.org/wiki/Bio_of_a_Space_Tyrant"
+    },
+    {
+      "title": "Aliette de Bodard bibliography",
+      "url": "http://en.wikipedia.org/wiki/Aliette_de_Bodard_bibliography"
+    },
+    {
+      "title": "The Bone World Trilogy",
+      "url": "http://en.wikipedia.org/wiki/The_Bone_World_Trilogy"
+    },
+    {
+      "title": "The Book of the Long Sun",
+      "url": "http://en.wikipedia.org/wiki/The_Book_of_the_Long_Sun"
+    },
+    {
+      "title": "Books of Swords",
+      "url": "http://en.wikipedia.org/wiki/Books_of_Swords"
+    },
+    {
+      "title": "Bridge trilogy",
+      "url": "http://en.wikipedia.org/wiki/Bridge_trilogy"
+    },
+    {
+      "title": "Buck Rogers",
+      "url": "http://en.wikipedia.org/wiki/Buck_Rogers"
+    },
+    {
+      "title": "Cadwal Chronicles",
+      "url": "http://en.wikipedia.org/wiki/Cadwal_Chronicles"
+    },
+    {
+      "title": "Cageworld series",
+      "url": "http://en.wikipedia.org/wiki/Cageworld_series"
+    },
+    {
+      "title": "Callahan's Crosstime Saloon",
+      "url": "http://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon"
+    },
+    {
+      "title": "Callisto series",
+      "url": "http://en.wikipedia.org/wiki/Callisto_series"
+    },
+    {
+      "title": "Canopus in Argos",
+      "url": "http://en.wikipedia.org/wiki/Canopus_in_Argos"
+    },
+    {
+      "title": "Catteni",
+      "url": "http://en.wikipedia.org/wiki/Catteni"
+    },
+    {
+      "title": "Childe Cycle",
+      "url": "http://en.wikipedia.org/wiki/Childe_Cycle"
+    },
+    {
+      "title": "Christ Clone Trilogy",
+      "url": "http://en.wikipedia.org/wiki/Christ_Clone_Trilogy"
+    },
+    {
+      "title": "The Chronicle of the Fallers",
+      "url": "http://en.wikipedia.org/wiki/The_Chronicle_of_the_Fallers"
+    },
+    {
+      "title": "Chronicles of an Age of Darkness",
+      "url": "http://en.wikipedia.org/wiki/Chronicles_of_an_Age_of_Darkness"
+    },
+    {
+      "title": "Cities in Flight",
+      "url": "http://en.wikipedia.org/wiki/Cities_in_Flight"
+    },
+    {
+      "title": "CoDominium",
+      "url": "http://en.wikipedia.org/wiki/CoDominium"
+    },
+    {
+      "title": "Colonization (series)",
+      "url": "http://en.wikipedia.org/wiki/Colonization_(series)"
+    },
+    {
+      "title": "Commander Perkins",
+      "url": "http://en.wikipedia.org/wiki/Commander_Perkins"
+    },
+    {
+      "title": "Commonwealth Saga",
+      "url": "http://en.wikipedia.org/wiki/Commonwealth_Saga"
+    },
+    {
+      "title": "Cosmo Argento",
+      "url": "http://en.wikipedia.org/wiki/Cosmo_Argento"
+    },
+    {
+      "title": "Cosmo Oro",
+      "url": "http://en.wikipedia.org/wiki/Cosmo_Oro"
+    },
+    {
+      "title": "Crosstime Traffic",
+      "url": "http://en.wikipedia.org/wiki/Crosstime_Traffic"
+    },
+    {
+      "title": "Crystal Singer series",
+      "url": "http://en.wikipedia.org/wiki/Crystal_Singer_series"
+    },
+    {
+      "title": "Culture series",
+      "url": "http://en.wikipedia.org/wiki/Culture_series"
+    },
+    {
+      "title": "The Culture",
+      "url": "http://en.wikipedia.org/wiki/The_Culture"
+    },
+    {
+      "title": "The Damned Trilogy",
+      "url": "http://en.wikipedia.org/wiki/The_Damned_Trilogy"
+    },
+    {
+      "title": "The Dancers at the End of Time",
+      "url": "http://en.wikipedia.org/wiki/The_Dancers_at_the_End_of_Time"
+    },
+    {
+      "title": "Danger Boy",
+      "url": "http://en.wikipedia.org/wiki/Danger_Boy"
+    },
+    {
+      "title": "The Dangerous Days of Daniel X",
+      "url": "http://en.wikipedia.org/wiki/The_Dangerous_Days_of_Daniel_X"
+    },
+    {
+      "title": "Death's Head (series)",
+      "url": "http://en.wikipedia.org/wiki/Death%27s_Head_(series)"
+    },
+    {
+      "title": "Deathlands",
+      "url": "http://en.wikipedia.org/wiki/Deathlands"
+    },
+    {
+      "title": "Deathstalker (series)",
+      "url": "http://en.wikipedia.org/wiki/Deathstalker_(series)"
+    },
+    {
+      "title": "Demon Princes",
+      "url": "http://en.wikipedia.org/wiki/Demon_Princes"
+    },
+    {
+      "title": "Destiny's Children",
+      "url": "http://en.wikipedia.org/wiki/Destiny%27s_Children"
+    },
+    {
+      "title": "Dig Allen Space Explorer",
+      "url": "http://en.wikipedia.org/wiki/Dig_Allen_Space_Explorer"
+    },
+    {
+      "title": "The Dingilliad",
+      "url": "http://en.wikipedia.org/wiki/The_Dingilliad"
+    },
+    {
+      "title": "The Domination",
+      "url": "http://en.wikipedia.org/wiki/The_Domination"
+    },
+    {
+      "title": "Doomsday Warrior",
+      "url": "http://en.wikipedia.org/wiki/Doomsday_Warrior"
+    },
+    {
+      "title": "Dragonfall 5",
+      "url": "http://en.wikipedia.org/wiki/Dragonfall_5"
+    },
+    {
+      "title": "Dray Prescot series",
+      "url": "http://en.wikipedia.org/wiki/Dray_Prescot_series"
+    },
+    {
+      "title": "Dream Park",
+      "url": "http://en.wikipedia.org/wiki/Dream_Park"
+    },
+    {
+      "title": "Dreamhunter Duet",
+      "url": "http://en.wikipedia.org/wiki/Dreamhunter_Duet"
+    },
+    {
+      "title": "Dumarest saga",
+      "url": "http://en.wikipedia.org/wiki/Dumarest_saga"
+    },
+    {
+      "title": "Dune (franchise)",
+      "url": "http://en.wikipedia.org/wiki/Dune_(franchise)"
+    },
+    {
+      "title": "Dune prequel series",
+      "url": "http://en.wikipedia.org/wiki/Dune_prequel_series"
+    },
+    {
+      "title": "Dungeon Crawler Carl",
+      "url": "http://en.wikipedia.org/wiki/Dungeon_Crawler_Carl"
+    },
+    {
+      "title": "Durdane series",
+      "url": "http://en.wikipedia.org/wiki/Durdane_series"
+    },
+    {
+      "title": "Eclipse Trilogy",
+      "url": "http://en.wikipedia.org/wiki/Eclipse_Trilogy"
+    },
+    {
+      "title": "The Emberverse series",
+      "url": "http://en.wikipedia.org/wiki/The_Emberverse_series"
+    },
+    {
+      "title": "The Empire Duet",
+      "url": "http://en.wikipedia.org/wiki/The_Empire_Duet"
+    },
+    {
+      "title": "Empire of Man",
+      "url": "http://en.wikipedia.org/wiki/Empire_of_Man"
+    },
+    {
+      "title": "Empire of the East series",
+      "url": "http://en.wikipedia.org/wiki/Empire_of_the_East_series"
+    },
+    {
+      "title": "Endworld",
+      "url": "http://en.wikipedia.org/wiki/Endworld"
+    },
+    {
+      "title": "Escape from Furnace",
+      "url": "http://en.wikipedia.org/wiki/Escape_from_Furnace"
+    },
+    {
+      "title": "Family D'Alembert",
+      "url": "http://en.wikipedia.org/wiki/Family_D%27Alembert"
+    },
+    {
+      "title": "The Fantastic Conquerors series",
+      "url": "http://en.wikipedia.org/wiki/The_Fantastic_Conquerors_series"
+    },
+    {
+      "title": "Felix, Net i Nika",
+      "url": "http://en.wikipedia.org/wiki/Felix,_Net_i_Nika"
+    },
+    {
+      "title": "Fever Crumb (series)",
+      "url": "http://en.wikipedia.org/wiki/Fever_Crumb_(series)"
+    },
+    {
+      "title": "The Forever Hero",
+      "url": "http://en.wikipedia.org/wiki/The_Forever_Hero"
+    },
+    {
+      "title": "The Forever War series",
+      "url": "http://en.wikipedia.org/wiki/The_Forever_War_series"
+    },
+    {
+      "title": "Foundation (book series)",
+      "url": "http://en.wikipedia.org/wiki/Foundation_(book_series)"
+    },
+    {
+      "title": "Four Lords of the Diamond",
+      "url": "http://en.wikipedia.org/wiki/Four_Lords_of_the_Diamond"
+    },
+    {
+      "title": "Franny K. Stein",
+      "url": "http://en.wikipedia.org/wiki/Franny_K._Stein"
+    },
+    {
+      "title": "Freeway Warrior",
+      "url": "http://en.wikipedia.org/wiki/Freeway_Warrior"
+    },
+    {
+      "title": "Future History (Heinlein)",
+      "url": "http://en.wikipedia.org/wiki/Future_History_(Heinlein)"
+    },
+    {
+      "title": "Gaea trilogy",
+      "url": "http://en.wikipedia.org/wiki/Gaea_trilogy"
+    },
+    {
+      "title": "Gaean Reach",
+      "url": "http://en.wikipedia.org/wiki/Gaean_Reach"
+    },
+    {
+      "title": "Galactic Center Saga",
+      "url": "http://en.wikipedia.org/wiki/Galactic_Center_Saga"
+    },
+    {
+      "title": "Galactic Empire series",
+      "url": "http://en.wikipedia.org/wiki/Galactic_Empire_series"
+    },
+    {
+      "title": "Galactic Milieu Series",
+      "url": "http://en.wikipedia.org/wiki/Galactic_Milieu_Series"
+    },
+    {
+      "title": "Galaxy of Fear",
+      "url": "http://en.wikipedia.org/wiki/Galaxy_of_Fear"
+    },
+    {
+      "title": "The Gap Cycle",
+      "url": "http://en.wikipedia.org/wiki/The_Gap_Cycle"
+    },
+    {
+      "title": "Dirk Gently",
+      "url": "http://en.wikipedia.org/wiki/Dirk_Gently"
+    },
+    {
+      "title": "Giants (series)",
+      "url": "http://en.wikipedia.org/wiki/Giants_(series)"
+    },
+    {
+      "title": "The Giver Quartet",
+      "url": "http://en.wikipedia.org/wiki/The_Giver_Quartet"
+    },
+    {
+      "title": "Gor",
+      "url": "http://en.wikipedia.org/wiki/Gor"
+    },
+    {
+      "title": "Green Sky Trilogy",
+      "url": "http://en.wikipedia.org/wiki/Green_Sky_Trilogy"
+    },
+    {
+      "title": "Hainish Cycle",
+      "url": "http://en.wikipedia.org/wiki/Hainish_Cycle"
+    },
+    {
+      "title": "Hammer's Slammers series",
+      "url": "http://en.wikipedia.org/wiki/Hammer%27s_Slammers_series"
+    },
+    {
+      "title": "Haruhi Suzumiya",
+      "url": "http://en.wikipedia.org/wiki/Haruhi_Suzumiya"
+    },
+    {
+      "title": "Heechee Saga",
+      "url": "http://en.wikipedia.org/wiki/Heechee_Saga"
+    },
+    {
+      "title": "Help! I'm Trapped...",
+      "url": "http://en.wikipedia.org/wiki/Help!_I%27m_Trapped..."
+    },
+    {
+      "title": "Heritage Trilogy",
+      "url": "http://en.wikipedia.org/wiki/Heritage_Trilogy"
+    },
+    {
+      "title": "Hero.com",
+      "url": "http://en.wikipedia.org/wiki/Hero.com"
+    },
+    {
+      "title": "The Historical Illuminatus Chronicles",
+      "url": "http://en.wikipedia.org/wiki/The_Historical_Illuminatus_Chronicles"
+    },
+    {
+      "title": "The History of the Galaxy",
+      "url": "http://en.wikipedia.org/wiki/The_History_of_the_Galaxy"
+    },
+    {
+      "title": "The Holdfast Chronicles",
+      "url": "http://en.wikipedia.org/wiki/The_Holdfast_Chronicles"
+    },
+    {
+      "title": "Hollows (series)",
+      "url": "http://en.wikipedia.org/wiki/Hollows_(series)"
+    },
+    {
+      "title": "Homecoming Saga",
+      "url": "http://en.wikipedia.org/wiki/Homecoming_Saga"
+    },
+    {
+      "title": "Honorverse",
+      "url": "http://en.wikipedia.org/wiki/Honorverse"
+    },
+    {
+      "title": "The Honour of the Knights",
+      "url": "http://en.wikipedia.org/wiki/The_Honour_of_the_Knights"
+    },
+    {
+      "title": "Hooded Swan",
+      "url": "http://en.wikipedia.org/wiki/Hooded_Swan"
+    },
+    {
+      "title": "Horseclans",
+      "url": "http://en.wikipedia.org/wiki/Horseclans"
+    },
+    {
+      "title": "Hyperion Cantos",
+      "url": "http://en.wikipedia.org/wiki/Hyperion_Cantos"
+    },
+    {
+      "title": "Ilium/Olympos",
+      "url": "http://en.wikipedia.org/wiki/Ilium/Olympos"
+    },
+    {
+      "title": "Incarnations of Immortality",
+      "url": "http://en.wikipedia.org/wiki/Incarnations_of_Immortality"
+    },
+    {
+      "title": "Independence Day (book series)",
+      "url": "http://en.wikipedia.org/wiki/Independence_Day_(book_series)"
+    },
+    {
+      "title": "Infinity Ring",
+      "url": "http://en.wikipedia.org/wiki/Infinity_Ring"
+    },
+    {
+      "title": "The Inheritance Trilogy (Douglas series)",
+      "url": "http://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(Douglas_series)"
+    },
+    {
+      "title": "Instrumentality of Mankind",
+      "url": "http://en.wikipedia.org/wiki/Instrumentality_of_Mankind"
+    },
+    {
+      "title": "InterWorld (series)",
+      "url": "http://en.wikipedia.org/wiki/InterWorld_(series)"
+    },
+    {
+      "title": "Isaac Asimov's Robots and Aliens",
+      "url": "http://en.wikipedia.org/wiki/Isaac_Asimov%27s_Robots_and_Aliens"
+    },
+    {
+      "title": "Isaac Asimov's Robots in Time",
+      "url": "http://en.wikipedia.org/wiki/Isaac_Asimov%27s_Robots_in_Time"
+    },
+    {
+      "title": "Janissaries (series)",
+      "url": "http://en.wikipedia.org/wiki/Janissaries_(series)"
+    },
+    {
+      "title": "Joe Ledger Series",
+      "url": "http://en.wikipedia.org/wiki/Joe_Ledger_Series"
+    },
+    {
+      "title": "Kemlo",
+      "url": "http://en.wikipedia.org/wiki/Kemlo"
+    },
+    {
+      "title": "Known Space",
+      "url": "http://en.wikipedia.org/wiki/Known_Space"
+    },
+    {
+      "title": "Land and Overland",
+      "url": "http://en.wikipedia.org/wiki/Land_and_Overland"
+    },
+    {
+      "title": "Laser Books",
+      "url": "http://en.wikipedia.org/wiki/Laser_Books"
+    },
+    {
+      "title": "Last Legionary",
+      "url": "http://en.wikipedia.org/wiki/Last_Legionary"
+    },
+    {
+      "title": "The Laundry Files",
+      "url": "http://en.wikipedia.org/wiki/The_Laundry_Files"
+    },
+    {
+      "title": "Legacy Trilogy",
+      "url": "http://en.wikipedia.org/wiki/Legacy_Trilogy"
+    },
+    {
+      "title": "Legend of the Galactic Heroes",
+      "url": "http://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes"
+    },
+    {
+      "title": "Legion of Space series",
+      "url": "http://en.wikipedia.org/wiki/Legion_of_Space_series"
+    },
+    {
+      "title": "Lensman series",
+      "url": "http://en.wikipedia.org/wiki/Lensman_series"
+    },
+    {
+      "title": "Liaden universe",
+      "url": "http://en.wikipedia.org/wiki/Liaden_universe"
+    },
+    {
+      "title": "Lilith's Brood",
+      "url": "http://en.wikipedia.org/wiki/Lilith%27s_Brood"
+    },
+    {
+      "title": "List of Ender's Game series short stories",
+      "url": "http://en.wikipedia.org/wiki/List_of_Ender%27s_Game_series_short_stories"
+    },
+    {
+      "title": "The Locked Tomb",
+      "url": "http://en.wikipedia.org/wiki/The_Locked_Tomb"
+    },
+    {
+      "title": "The Long Earth (series)",
+      "url": "http://en.wikipedia.org/wiki/The_Long_Earth_(series)"
+    },
+    {
+      "title": "A Lord from Planet Earth",
+      "url": "http://en.wikipedia.org/wiki/A_Lord_from_Planet_Earth"
+    },
+    {
+      "title": "Lorien Legacies",
+      "url": "http://en.wikipedia.org/wiki/Lorien_Legacies"
+    },
+    {
+      "title": "The Lost Fleet",
+      "url": "http://en.wikipedia.org/wiki/The_Lost_Fleet"
+    },
+    {
+      "title": "The Lost Regiment",
+      "url": "http://en.wikipedia.org/wiki/The_Lost_Regiment"
+    },
+    {
+      "title": "Lucky Starr series",
+      "url": "http://en.wikipedia.org/wiki/Lucky_Starr_series"
+    },
+    {
+      "title": "Der Luftpirat und sein lenkbares Luftschiff",
+      "url": "http://en.wikipedia.org/wiki/Der_Luftpirat_und_sein_lenkbares_Luftschiff"
+    },
+    {
+      "title": "M=SF",
+      "url": "http://en.wikipedia.org/wiki/M%3DSF"
+    },
+    {
+      "title": "Maddrax",
+      "url": "http://en.wikipedia.org/wiki/Maddrax"
+    },
+    {
+      "title": "Majipoor series",
+      "url": "http://en.wikipedia.org/wiki/Majipoor_series"
+    },
+    {
+      "title": "Malaf Al Mostakbal",
+      "url": "http://en.wikipedia.org/wiki/Malaf_Al_Mostakbal"
+    },
+    {
+      "title": "Manifold Trilogy",
+      "url": "http://en.wikipedia.org/wiki/Manifold_Trilogy"
+    },
+    {
+      "title": "Mark Brandis series",
+      "url": "http://en.wikipedia.org/wiki/Mark_Brandis_series"
+    },
+    {
+      "title": "Mars trilogy",
+      "url": "http://en.wikipedia.org/wiki/Mars_trilogy"
+    },
+    {
+      "title": "Marvelous World",
+      "url": "http://en.wikipedia.org/wiki/Marvelous_World"
+    },
+    {
+      "title": "Maximum Ride",
+      "url": "http://en.wikipedia.org/wiki/Maximum_Ride"
+    },
+    {
+      "title": "The Merchant Princes",
+      "url": "http://en.wikipedia.org/wiki/The_Merchant_Princes"
+    },
+    {
+      "title": "Merovingen Nights",
+      "url": "http://en.wikipedia.org/wiki/Merovingen_Nights"
+    },
+    {
+      "title": "Mode (book series)",
+      "url": "http://en.wikipedia.org/wiki/Mode_(book_series)"
+    },
+    {
+      "title": "Mortal Engines Quartet",
+      "url": "http://en.wikipedia.org/wiki/Mortal_Engines_Quartet"
+    },
+    {
+      "title": "The Murderbot Diaries",
+      "url": "http://en.wikipedia.org/wiki/The_Murderbot_Diaries"
+    },
+    {
+      "title": "My Teacher Is an Alien",
+      "url": "http://en.wikipedia.org/wiki/My_Teacher_Is_an_Alien"
+    },
+    {
+      "title": "Nantucket series",
+      "url": "http://en.wikipedia.org/wiki/Nantucket_series"
+    },
+    {
+      "title": "The New Heroes",
+      "url": "http://en.wikipedia.org/wiki/The_New_Heroes"
+    },
+    {
+      "title": "New Writings in SF",
+      "url": "http://en.wikipedia.org/wiki/New_Writings_in_SF"
+    },
+    {
+      "title": "Not Quite Human",
+      "url": "http://en.wikipedia.org/wiki/Not_Quite_Human"
+    },
+    {
+      "title": "Obernewtyn Chronicles",
+      "url": "http://en.wikipedia.org/wiki/Obernewtyn_Chronicles"
+    },
+    {
+      "title": "Of Man and Manta",
+      "url": "http://en.wikipedia.org/wiki/Of_Man_and_Manta"
+    },
+    {
+      "title": "Orbit (anthology series)",
+      "url": "http://en.wikipedia.org/wiki/Orbit_(anthology_series)"
+    },
+    {
+      "title": "Orthe (series)",
+      "url": "http://en.wikipedia.org/wiki/Orthe_(series)"
+    },
+    {
+      "title": "Otherland",
+      "url": "http://en.wikipedia.org/wiki/Otherland"
+    },
+    {
+      "title": "Outlander (book series)",
+      "url": "http://en.wikipedia.org/wiki/Outlander_(book_series)"
+    },
+    {
+      "title": "Outlanders (book series)",
+      "url": "http://en.wikipedia.org/wiki/Outlanders_(book_series)"
+    },
+    {
+      "title": "Paratime series",
+      "url": "http://en.wikipedia.org/wiki/Paratime_series"
+    },
+    {
+      "title": "The Pearl Saga",
+      "url": "http://en.wikipedia.org/wiki/The_Pearl_Saga"
+    },
+    {
+      "title": "The Phoenix Files",
+      "url": "http://en.wikipedia.org/wiki/The_Phoenix_Files"
+    },
+    {
+      "title": "Phule's Company (series)",
+      "url": "http://en.wikipedia.org/wiki/Phule%27s_Company_(series)"
+    },
+    {
+      "title": "The Pit Dragon Chronicles",
+      "url": "http://en.wikipedia.org/wiki/The_Pit_Dragon_Chronicles"
+    },
+    {
+      "title": "Planet of Adventure",
+      "url": "http://en.wikipedia.org/wiki/Planet_of_Adventure"
+    },
+    {
+      "title": "Planet Pirates",
+      "url": "http://en.wikipedia.org/wiki/Planet_Pirates"
+    },
+    {
+      "title": "Planetenromane",
+      "url": "http://en.wikipedia.org/wiki/Planetenromane"
+    },
+    {
+      "title": "Professor Challenger",
+      "url": "http://en.wikipedia.org/wiki/Professor_Challenger"
+    },
+    {
+      "title": "Psi-Man",
+      "url": "http://en.wikipedia.org/wiki/Psi-Man"
+    },
+    {
+      "title": "The Psychotechnic League",
+      "url": "http://en.wikipedia.org/wiki/The_Psychotechnic_League"
+    },
+    {
+      "title": "Quadrail series",
+      "url": "http://en.wikipedia.org/wiki/Quadrail_series"
+    },
+    {
+      "title": "The Queendom of Sol",
+      "url": "http://en.wikipedia.org/wiki/The_Queendom_of_Sol"
+    },
+    {
+      "title": "Radix Tetrad",
+      "url": "http://en.wikipedia.org/wiki/Radix_Tetrad"
+    },
+    {
+      "title": "RCN Series",
+      "url": "http://en.wikipedia.org/wiki/RCN_Series"
+    },
+    {
+      "title": "A Requiem for Homo Sapiens",
+      "url": "http://en.wikipedia.org/wiki/A_Requiem_for_Homo_Sapiens"
+    },
+    {
+      "title": "Revelation Space series",
+      "url": "http://en.wikipedia.org/wiki/Revelation_Space_series"
+    },
+    {
+      "title": "Perry Rhodan",
+      "url": "http://en.wikipedia.org/wiki/Perry_Rhodan"
+    },
+    {
+      "title": "Richard Blade (series)",
+      "url": "http://en.wikipedia.org/wiki/Richard_Blade_(series)"
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot",
+      "url": "http://en.wikipedia.org/wiki/Ricky_Ricotta%27s_Mighty_Robot"
+    },
+    {
+      "title": "Ringworld series",
+      "url": "http://en.wikipedia.org/wiki/Ringworld_series"
+    },
+    {
+      "title": "Riverworld",
+      "url": "http://en.wikipedia.org/wiki/Riverworld"
+    },
+    {
+      "title": "Robot series",
+      "url": "http://en.wikipedia.org/wiki/Robot_series"
+    },
+    {
+      "title": "Robotech",
+      "url": "http://en.wikipedia.org/wiki/Robotech"
+    },
+    {
+      "title": "Roswell High",
+      "url": "http://en.wikipedia.org/wiki/Roswell_High"
+    },
+    {
+      "title": "Safehold",
+      "url": "http://en.wikipedia.org/wiki/Safehold"
+    },
+    {
+      "title": "La saga de los Aznar",
+      "url": "http://en.wikipedia.org/wiki/La_saga_de_los_Aznar"
+    },
+    {
+      "title": "Saga of Cuckoo",
+      "url": "http://en.wikipedia.org/wiki/Saga_of_Cuckoo"
+    },
+    {
+      "title": "Saga of Pliocene Exile",
+      "url": "http://en.wikipedia.org/wiki/Saga_of_Pliocene_Exile"
+    },
+    {
+      "title": "The Saga of Seven Suns",
+      "url": "http://en.wikipedia.org/wiki/The_Saga_of_Seven_Suns"
+    }
+  ]
+}

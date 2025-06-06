@@ -1,0 +1,24 @@
+Things to go back and check in each file/folder/task
+
+1. TV tropes data
+- look at missing/incorrect pages and find replacements
+- more pages needed?
+
+2. Mythopedia data
+
+3. wikipedia data
+- looking at missing/incorrect pages
+suggested replacements:
+
+wiki_urls.update({
+    "Fantasy novels by series": "https://en.wikipedia.org/wiki/Category:Fantasy_novel_series",
+    "Fantasy video games": "https://en.wikipedia.org/wiki/Category:Fantasy_video_games",
+    "Animated tv 1990s": "https://en.wikipedia.org/wiki/Category:1990s_animated_television_series",
+    "Animated tv 2000s": "https://en.wikipedia.org/wiki/Category:2000s_animated_television_series",
+    "Mythology in literature": "https://en.wikipedia.org/wiki/Category:Mythology_in_literature"
+})
+
+
+3. imdb goodreads data
+
+

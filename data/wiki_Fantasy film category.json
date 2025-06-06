@@ -1,0 +1,18 @@
+{
+  "title": "Fantasy film category",
+  "url": "https://en.wikipedia.org/wiki/Category:Fantasy_films",
+  "examples": [
+    {
+      "title": "Fantasy film",
+      "url": "http://en.wikipedia.org/wiki/Fantasy_film"
+    },
+    {
+      "title": "Lists of fantasy films",
+      "url": "http://en.wikipedia.org/wiki/Lists_of_fantasy_films"
+    },
+    {
+      "title": "Satellite Girl and Milk Cow",
+      "url": "http://en.wikipedia.org/wiki/Satellite_Girl_and_Milk_Cow"
+    }
+  ]
+}
