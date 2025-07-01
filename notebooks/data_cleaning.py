@@ -138,7 +138,6 @@ from itertools import chain
 manual_overrides = {
     'blasphemous(videogame)': 'Blasphemous',
     'shazam!(film)': 'Shazam!',
-    # etc.
 }
 
 def media_format_from_id(row):
@@ -155,7 +154,6 @@ def media_format_from_id(row):
 
 
 def clean_title(text):
-    # Removes brackets, subtitles, etc.
     if not isinstance(text, str):
         return ''
     return (
@@ -328,16 +326,16 @@ df['book_year'] = df['book_publishedDate'].dt.year
     # Initialize the data_quality_flag column
 df["data_quality_flag"] = [[] for _ in range(len(df))]
 
-# Helper function to append flags
+
 def append_flag(index, flag):
     df.at[index, "data_quality_flag"].append(flag)
 
-# Flag out-of-range imdb_year
+
 for idx, year in df["imdb_year"].dropna().items():
     if year < 1990 or year > 2026:
         append_flag(idx, "imdb_year_out_of_range")
 
-# Flag out-of-range book_publishedDate
+
 for idx, year in df["book_publishedDate"].dropna().items():
     try:
         y = int(str(year)[:4])
@@ -346,7 +344,7 @@ for idx, year in df["book_publishedDate"].dropna().items():
     except:
         append_flag(idx, "book_year_invalid")
 
-# Flag empty author and genre lists
+
 for idx, authors in df["book_authors"].items():
     if isinstance(authors, list) and len(authors) == 0:
         append_flag(idx, "empty_book_authors")
@@ -355,7 +353,7 @@ for idx, genres in df["imdb_genres"].items():
     if isinstance(genres, list) and len(genres) == 0:
         append_flag(idx, "empty_imdb_genres")
 
-# Flag short or placeholder descriptions
+
 for idx, desc in df["book_description"].items():
     if isinstance(desc, str) and (len(desc) < 20 or "no description" in desc.lower()):
         append_flag(idx, "suspicious_book_description")
@@ -364,7 +362,7 @@ for idx, plot in df["imdb_plot"].items():
     if isinstance(plot, str) and (len(plot) < 20 or "add a plot" in plot.lower()):
         append_flag(idx, "suspicious_imdb_plot")
 
-# Save updated dataset
+
 df.to_json("data/flagged_cleaned_expanded_dataset.json", orient="records", lines=True, force_ascii=False)
 
 #print(df['data_quality_flag'].explode().value_counts())
@@ -372,19 +370,19 @@ df.to_json("data/flagged_cleaned_expanded_dataset.json", orient="records", lines
 #for filtering purposes, create a boolean column indicating if the entry is clean
 df['is_clean'] = df['data_quality_flag'].apply(lambda x: len(x) == 0)
 
-# Suggestion 1: Summarize data quality issues by inferred_media_type
+
 flag_counts_by_type = df.explode('data_quality_flag').groupby('inferred_media_type')['data_quality_flag'].value_counts().unstack(fill_value=0)
 
-# Suggestion 3: Profile distributions within is_clean == True
+
 df['is_clean'] = df['data_quality_flag'].apply(lambda x: len(x) == 0)
 
-# For clean entries only
+
 clean_df = df[df['is_clean'] == True]
 
 df.loc[df['is_clean'], 'num_genres'] = df.loc[df['is_clean'], 'imdb_genres'].apply(lambda x: len(x) if isinstance(x, list) else 0)
 df.loc[df['is_clean'], 'num_authors'] = df.loc[df['is_clean'], 'book_authors'].apply(lambda x: len(x) if isinstance(x, list) else 0)
 
-# Distribution of years
+
 imdb_year_dist = clean_df['imdb_year'].dropna()
 book_year_dist = clean_df['book_publishedDate'].dropna()
 

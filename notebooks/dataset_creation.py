@@ -16,7 +16,7 @@ for filename in filenames:
             data = json.load(f)
 
             if isinstance(data, dict):
-                entities = list(data.values())[0]  # Get the list under the only key
+                entities = list(data.values())[0]  
             else:
                 print(f"Unexpected structure in {filename}")
                 continue
